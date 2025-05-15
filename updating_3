@@ -1,0 +1,4 @@
+l=[1,2,4,5]
+print(l)
+l.insert(4,7)
+print(l)
